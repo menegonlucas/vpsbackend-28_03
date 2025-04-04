@@ -15,7 +15,7 @@ Cada desenvolvedor recebeu um link do projeto que deve **fazer fork**, **deixar 
 4. **Fazer commits** e seguir as instruções de entrega.
 
 ---
-
+## Tecnologias Utilizadas: Xampp, Insomnia, Nodemon, JavaScript
 ## 📂 Estrutura do Projeto
 
 ```bash
